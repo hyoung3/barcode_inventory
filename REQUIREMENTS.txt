@@ -1,0 +1,9 @@
+biblio.webquery==0.4.3b0
+certifi==2018.4.16
+chardet==3.0.4
+idna==2.6
+requests==2.18.4
+upc-item-db-api==0.1.1
+upcdb==1.0
+urllib3==1.22
+wincertstore==0.2
